@@ -16,7 +16,6 @@ name the file test_unittest_thingtotest.py
 5. Repeat.  
 
 
-
 ### List of assertions in unit testing:
 
 |Method                   |   Checks that          |New in|
