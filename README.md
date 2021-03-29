@@ -71,6 +71,7 @@ class CalcTest(unittest.TestCase):
 
 
 # python -m pytest to run all tests
+# python -m pytest -v to run all test verbose (super good)
 ```
 
 ### Code that gets tested: 
